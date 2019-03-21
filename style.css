@@ -56,13 +56,14 @@ h1 {
 }
 
 h2 {
+    font-family: BebasNeue;
   font-size: 67px;
   text-indent:1em;
   color: red;
   font-weight: 100;
   letter-spacing: -2px;
   padding: 18px;
-  font-family: BebasNeue;
+
 
 }
 .center {
