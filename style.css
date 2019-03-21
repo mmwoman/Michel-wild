@@ -50,6 +50,11 @@ font-family: morva;
 
 }
 
+h2 {
+  font-size: 47px;
+  text-indent:200;
+  color: skyblue;
+}
 .center {
   display: block;
   margin-left:auto;
