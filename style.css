@@ -42,7 +42,7 @@ font-family: arial;
 
 }
 h1 {
-    font-family:BebasNeue;
+    font-family:mo;
     font-size: 32px;
     color: black;
     text-align: center;
@@ -62,8 +62,8 @@ h2 {
   font-weight: 100;
   letter-spacing: -2px;
   padding: 18px;
-  font-family: aauxnext;
-  font-style: italic;
+  font-family: BebasNeue;
+  
 }
 .center {
   display: block;
@@ -78,14 +78,6 @@ p{
   padding: 30px;
   word-wrap: break-word;
   text-align: left;
-
-
-}
-
-h6 {
-  font-family: serif;
-  font-size: 12px;
-  text-indent:1em;
 
 
 }
