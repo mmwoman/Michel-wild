@@ -67,6 +67,12 @@ h2 {
 
 
 }
+
+h3 {
+  text-align: center;
+  font-family: BebasNeue;
+  font-size: 15px;
+}
 .center {
   display: block;
   margin-left:auto;
@@ -83,4 +89,8 @@ p{
   text-align: left;
 
 
+}
+
+.carousel-inner > .item > img{
+margin:auto;
 }
