@@ -28,7 +28,7 @@ src:url (fonts/BebasNeue.otf);
 
 }
 a {
-font-family: "times new roman";
+font-family: "helvetica";
     font-size: 10;
     color: black;
     font-style: italic;
@@ -37,7 +37,7 @@ font-family: "times new roman";
     text-decoration-line: none;
     text-indent:0;
     text-transform: capitalize;
-    letter-spacing: 5px;
+    letter-spacing: 1px;
 
 }
 h1 {
