@@ -15,7 +15,7 @@ grid-column-end:3;
 background-color:gray;
 }
 .grid div:nth-child(odd) {
-background-color:skyblue;
+background-color:white;
 }
 
 @@font-face {
