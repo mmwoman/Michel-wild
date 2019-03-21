@@ -4,15 +4,15 @@
 }
 .grid {
   display:grid;
-  grid-template-columns: 1fr 2.5fr ;
+  grid-template-columns: 1.5fr 1fr ;
 }
 
 .gq {
 grid-column-start: 1;
-grid-column-end:3;
+grid-column-end:2;
 }
 .grid div:nth-child(even) {
-background-color:gray;
+background-color:white;
 }
 .grid div:nth-child(odd) {
 background-color:white;
@@ -39,7 +39,7 @@ font-family: arial;
 }
 h1 {
 font-family: morva;
-    font-size: 42px;
+    font-size: 32px;
     color: black;
     text-align: center;
     font-weight:200;
@@ -53,10 +53,10 @@ font-family: morva;
 
 h2 {
   font-size: 67px;
-  text-indent:200;
+  text-indent:1em;
   color: red;
   font-weight: 100;
-  letter-spacing: 10px;
+  letter-spacing: -2px;
   padding: 18px;
   font-family: aauxnext;
   font-style: italic;
@@ -71,11 +71,18 @@ h2 {
 p{
   font-family: arial;
   line-height: 20px;
-  padding: 20px;
+  padding: 30px;
   word-wrap: break-word;
+  text-align: left;
+  text-indent: inherit;
+
 
 }
 
-.about {
-  padding-30:
+h6 {
+  font-family: serif;
+  font-size: 12px;
+  text-indent:1em;
+
+
 }
