@@ -2,6 +2,10 @@
   margin:15;
   padding:65;
 }
+
+html {
+height: 120%;
+}
 .grid {
   display:grid;
   grid-template-columns: 1.5fr 1fr ;
@@ -31,13 +35,11 @@ a {
 font-family: "helvetica";
     font-size: 10;
     color: black;
-    font-style: italic;
     font-weight:0;
     text-align:right;
-    text-decoration-line: none;
     text-indent:0;
     text-transform: capitalize;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
 
 }
 h1 {
