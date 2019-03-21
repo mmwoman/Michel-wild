@@ -1,0 +1,64 @@
+*{
+  margin:10;
+  padding:35;
+}
+.grid {
+  display:grid;
+  grid-template-columns: 2.5fr 1fr ;
+}
+
+.gq {
+grid-column-start: 1;
+grid-column-end:3;
+}
+.grid div:nth-child(even) {
+background-color:gray;
+}
+.grid div:nth-child(odd) {
+background-color:skyblue;
+}
+
+@@font-face {
+  src:url(fonts/morva.otf);
+font-family:morva;
+
+}
+
+a {
+font-family: arial;
+    font-size: 10;
+    color: red;
+    font-weight:0;
+    text-align:right;
+    text-decoration-line: none;
+    text-indent:0;
+    text-transform: capitalize;
+    letter-spacing: 5px;
+
+}
+h1 {
+font-family: morva;
+    font-size: 42px;
+    color: black;
+    text-align: center;
+    font-weight:200;
+    text-decoration-line: none;
+    text-indent:0;
+    text-transform: capitalize;
+    letter-spacing: 15px;
+
+
+}
+
+.center {
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p{
+  font-family: arial;
+  line-height: 20px;
+
+}
