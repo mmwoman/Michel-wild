@@ -19,14 +19,12 @@ background-color:white;
 }
 
 @font-face {
+  font-family:morva;
   src:url(fonts/morva.otf);
-font-family:morva;
-src:url (fonts/aauxnext.otf);
 font-family:aauxnext;
-src:url (fonts/BebasNeue.otf);
+src:url (fonts/aauxnext.otf);
 font-family:BebasNeue;
-}
-
+src:url (fonts/BebasNeue.otf);
 
 }
 a {
