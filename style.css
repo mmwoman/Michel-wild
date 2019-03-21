@@ -4,7 +4,7 @@
 }
 .grid {
   display:grid;
-  grid-template-columns: 1fr 3fr ;
+  grid-template-columns: 1fr 2.5fr ;
 }
 
 .gq {
@@ -68,8 +68,7 @@ p{
   line-height: 20px;
   padding: 20px;
   word-wrap: break-word;
-  text-aligh: left;
-  
+
 }
 
 .about {
