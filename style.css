@@ -68,6 +68,8 @@ p{
   line-height: 20px;
   padding: 20px;
   word-wrap: break-word;
+  text-aligh: left;
+  
 }
 
 .about {
