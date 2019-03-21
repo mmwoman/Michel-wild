@@ -23,8 +23,12 @@ background-color:white;
 font-family:morva;
 src:url (fonts/aauxnext.otf);
 font-family:aauxnext;
+src:url (fonts/BebasNeue.otf);
+font-family:BebasNeue;
 }
 
+
+}
 a {
 font-family: arial;
     font-size: 10;
@@ -38,7 +42,7 @@ font-family: arial;
 
 }
 h1 {
-font-family: morva;
+    font-family:BebasNeue;
     font-size: 32px;
     color: black;
     text-align: center;
@@ -74,7 +78,6 @@ p{
   padding: 30px;
   word-wrap: break-word;
   text-align: left;
-  text-indent: inherit;
 
 
 }
