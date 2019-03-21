@@ -21,7 +21,8 @@ background-color:white;
 @@font-face {
   src:url(fonts/morva.otf);
 font-family:morva;
-
+src:url (fonts/aauxnext.otf);
+font-family:aauxnext;
 }
 
 a {
@@ -55,6 +56,7 @@ h2 {
   text-indent:200;
   color: skyblue;
   padding: 20px;
+  font-family: aauxnext;
 }
 .center {
   display: block;
